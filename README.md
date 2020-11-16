@@ -6,4 +6,5 @@ Three type of recommendation provided:-
 1.Content based
 
 2.Collaborative Filtering
+
 3.Hybrid recommender
