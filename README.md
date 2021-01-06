@@ -42,4 +42,22 @@ Three type of recommendation provided:-
       6.keywords.csv
       
       7.credits.csv
+      
+ # Dependencies
+      
+      1.Python
+      
+      2.Numpy
+      
+      3.Pandas
+      
+      4.Matplotlib
+      
+      5.Sklearn
+      
+      6.Seaborn
+      
+      7.Google Collab
+      
+  
 
