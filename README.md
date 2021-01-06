@@ -8,3 +8,7 @@ Three type of recommendation provided:-
 2.Collaborative Filtering
 
 3.Hybrid recommender
+
+#Dataset
+
+*MovieLens dataset is used for making the recommender system.
