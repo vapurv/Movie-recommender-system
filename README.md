@@ -59,5 +59,8 @@ Three type of recommendation provided:-
       
       7.Google Collab
       
+* Building and training of model done on Google collab.
+* No need to install all these dependencies on system.
+      
   
 
