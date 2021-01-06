@@ -28,6 +28,7 @@ Three type of recommendation provided:-
 * Users were selected at random for inclusion. All selected users had rated at least 20 movies. No demographic information is included. Each user is represented by an id, and no other information is provided.
 
 * The data are contained in the following files.
+
       1.ratings.csv
       
       2.ratings_small.csv
