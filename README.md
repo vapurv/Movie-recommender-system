@@ -61,7 +61,7 @@ Three type of recommendation provided:-
       
 * Building and training of model done on Google collab.
 * No need to install all these dependencies on system.
-* [Please click here to go on google collab home page] (https://colab.research.google.com/notebooks/intro.ipynb#recent=true) 
+* Please click here to go on google collab home page. [https://colab.research.google.com/notebooks/intro.ipynb#recent=true] 
       
   
 
